@@ -9,11 +9,25 @@
 /* Begin PBXBuildFile section */
 		7E4B5DE71D02A7EB00F608C0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B5DE61D02A7EB00F608C0 /* main.m */; };
 		7E4B5DEA1D02A7EB00F608C0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B5DE91D02A7EB00F608C0 /* AppDelegate.m */; };
-		7E4B5DED1D02A7EB00F608C0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B5DEC1D02A7EB00F608C0 /* ViewController.m */; };
 		7E4B5DF01D02A7EB00F608C0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7E4B5DEE1D02A7EB00F608C0 /* Main.storyboard */; };
 		7E4B5DF21D02A7EB00F608C0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E4B5DF11D02A7EB00F608C0 /* Images.xcassets */; };
 		7E4B5DF51D02A7EB00F608C0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7E4B5DF31D02A7EB00F608C0 /* LaunchScreen.xib */; };
 		7E4B5E011D02A7EB00F608C0 /* NewsAPPTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B5E001D02A7EB00F608C0 /* NewsAPPTests.m */; };
+		7E4B5E101D02A8D900F608C0 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B5E0B1D02A8D900F608C0 /* MainViewController.m */; };
+		7E4B5E111D02A8D900F608C0 /* SidebarTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B5E0D1D02A8D900F608C0 /* SidebarTableViewController.m */; };
+		7E4B5E121D02A8D900F608C0 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B5E0F1D02A8D900F608C0 /* SWRevealViewController.m */; };
+		7E4B5E181D02AA1B00F608C0 /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B5E171D02AA1B00F608C0 /* ViewController2.m */; };
+		7E4B5E1B1D02AA2800F608C0 /* ViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B5E1A1D02AA2800F608C0 /* ViewController3.m */; };
+		7E4B5E1E1D02AA3200F608C0 /* ViewController4.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B5E1D1D02AA3200F608C0 /* ViewController4.m */; };
+		7E4B5E231D02ACB400F608C0 /* ic_logo.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 7E4B5E221D02ACB400F608C0 /* ic_logo.PNG */; };
+		7E4B5E281D02B1CC00F608C0 /* four_sport.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E4B5E241D02B1CC00F608C0 /* four_sport.jpg */; };
+		7E4B5E291D02B1CC00F608C0 /* modi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E4B5E251D02B1CC00F608C0 /* modi.jpg */; };
+		7E4B5E2A1D02B1CC00F608C0 /* news_four.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E4B5E261D02B1CC00F608C0 /* news_four.jpg */; };
+		7E4B5E2B1D02B1CC00F608C0 /* news_three.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E4B5E271D02B1CC00F608C0 /* news_three.jpg */; };
+		7E4B5E2E1D02B2C300F608C0 /* NEWSTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B5E2D1D02B2C300F608C0 /* NEWSTableViewCell.m */; };
+		7E4B5E841D02D40900F608C0 /* green_logo.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 7E4B5E821D02D40900F608C0 /* green_logo.PNG */; };
+		7E4B5E851D02D40900F608C0 /* logo.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 7E4B5E831D02D40900F608C0 /* logo.PNG */; };
+		7E4B5E881D02DEE200F608C0 /* IMGCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 7E4B5E871D02DEE200F608C0 /* IMGCollectionViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,14 +46,35 @@
 		7E4B5DE61D02A7EB00F608C0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7E4B5DE81D02A7EB00F608C0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		7E4B5DE91D02A7EB00F608C0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		7E4B5DEB1D02A7EB00F608C0 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		7E4B5DEC1D02A7EB00F608C0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		7E4B5DEF1D02A7EB00F608C0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7E4B5DF11D02A7EB00F608C0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		7E4B5DF41D02A7EB00F608C0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		7E4B5DFA1D02A7EB00F608C0 /* NewsAPPTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewsAPPTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E4B5DFF1D02A7EB00F608C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7E4B5E001D02A7EB00F608C0 /* NewsAPPTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewsAPPTests.m; sourceTree = "<group>"; };
+		7E4B5E0A1D02A8D900F608C0 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		7E4B5E0B1D02A8D900F608C0 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		7E4B5E0C1D02A8D900F608C0 /* SidebarTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SidebarTableViewController.h; sourceTree = "<group>"; };
+		7E4B5E0D1D02A8D900F608C0 /* SidebarTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SidebarTableViewController.m; sourceTree = "<group>"; };
+		7E4B5E0E1D02A8D900F608C0 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
+		7E4B5E0F1D02A8D900F608C0 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
+		7E4B5E161D02AA1B00F608C0 /* ViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
+		7E4B5E171D02AA1B00F608C0 /* ViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
+		7E4B5E191D02AA2800F608C0 /* ViewController3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController3.h; path = ../ViewController3.h; sourceTree = "<group>"; };
+		7E4B5E1A1D02AA2800F608C0 /* ViewController3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController3.m; path = ../ViewController3.m; sourceTree = "<group>"; };
+		7E4B5E1C1D02AA3200F608C0 /* ViewController4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController4.h; path = ../ViewController4.h; sourceTree = "<group>"; };
+		7E4B5E1D1D02AA3200F608C0 /* ViewController4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController4.m; path = ../ViewController4.m; sourceTree = "<group>"; };
+		7E4B5E221D02ACB400F608C0 /* ic_logo.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_logo.PNG; sourceTree = "<group>"; };
+		7E4B5E241D02B1CC00F608C0 /* four_sport.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = four_sport.jpg; sourceTree = "<group>"; };
+		7E4B5E251D02B1CC00F608C0 /* modi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = modi.jpg; sourceTree = "<group>"; };
+		7E4B5E261D02B1CC00F608C0 /* news_four.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = news_four.jpg; sourceTree = "<group>"; };
+		7E4B5E271D02B1CC00F608C0 /* news_three.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = news_three.jpg; sourceTree = "<group>"; };
+		7E4B5E2C1D02B2C300F608C0 /* NEWSTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NEWSTableViewCell.h; path = ../NEWSTableViewCell.h; sourceTree = "<group>"; };
+		7E4B5E2D1D02B2C300F608C0 /* NEWSTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NEWSTableViewCell.m; path = ../NEWSTableViewCell.m; sourceTree = "<group>"; };
+		7E4B5E821D02D40900F608C0 /* green_logo.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = green_logo.PNG; sourceTree = "<group>"; };
+		7E4B5E831D02D40900F608C0 /* logo.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.PNG; sourceTree = "<group>"; };
+		7E4B5E861D02DEE200F608C0 /* IMGCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = IMGCollectionViewCell.h; path = ../IMGCollectionViewCell.h; sourceTree = "<group>"; };
+		7E4B5E871D02DEE200F608C0 /* IMGCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = IMGCollectionViewCell.m; path = ../IMGCollectionViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +98,7 @@
 		7E4B5DD81D02A7EB00F608C0 = {
 			isa = PBXGroup;
 			children = (
+				7E4B5E1F1D02AC8D00F608C0 /* images */,
 				7E4B5DE31D02A7EB00F608C0 /* NewsAPP */,
 				7E4B5DFD1D02A7EB00F608C0 /* NewsAPPTests */,
 				7E4B5DE21D02A7EB00F608C0 /* Products */,
@@ -81,10 +117,24 @@
 		7E4B5DE31D02A7EB00F608C0 /* NewsAPP */ = {
 			isa = PBXGroup;
 			children = (
+				7E4B5E861D02DEE200F608C0 /* IMGCollectionViewCell.h */,
+				7E4B5E871D02DEE200F608C0 /* IMGCollectionViewCell.m */,
+				7E4B5E2C1D02B2C300F608C0 /* NEWSTableViewCell.h */,
+				7E4B5E2D1D02B2C300F608C0 /* NEWSTableViewCell.m */,
+				7E4B5E1C1D02AA3200F608C0 /* ViewController4.h */,
+				7E4B5E1D1D02AA3200F608C0 /* ViewController4.m */,
+				7E4B5E191D02AA2800F608C0 /* ViewController3.h */,
+				7E4B5E1A1D02AA2800F608C0 /* ViewController3.m */,
+				7E4B5E161D02AA1B00F608C0 /* ViewController2.h */,
+				7E4B5E171D02AA1B00F608C0 /* ViewController2.m */,
+				7E4B5E0A1D02A8D900F608C0 /* MainViewController.h */,
+				7E4B5E0B1D02A8D900F608C0 /* MainViewController.m */,
+				7E4B5E0C1D02A8D900F608C0 /* SidebarTableViewController.h */,
+				7E4B5E0D1D02A8D900F608C0 /* SidebarTableViewController.m */,
+				7E4B5E0E1D02A8D900F608C0 /* SWRevealViewController.h */,
+				7E4B5E0F1D02A8D900F608C0 /* SWRevealViewController.m */,
 				7E4B5DE81D02A7EB00F608C0 /* AppDelegate.h */,
 				7E4B5DE91D02A7EB00F608C0 /* AppDelegate.m */,
-				7E4B5DEB1D02A7EB00F608C0 /* ViewController.h */,
-				7E4B5DEC1D02A7EB00F608C0 /* ViewController.m */,
 				7E4B5DEE1D02A7EB00F608C0 /* Main.storyboard */,
 				7E4B5DF11D02A7EB00F608C0 /* Images.xcassets */,
 				7E4B5DF31D02A7EB00F608C0 /* LaunchScreen.xib */,
@@ -117,6 +167,20 @@
 				7E4B5DFF1D02A7EB00F608C0 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		7E4B5E1F1D02AC8D00F608C0 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				7E4B5E821D02D40900F608C0 /* green_logo.PNG */,
+				7E4B5E831D02D40900F608C0 /* logo.PNG */,
+				7E4B5E241D02B1CC00F608C0 /* four_sport.jpg */,
+				7E4B5E251D02B1CC00F608C0 /* modi.jpg */,
+				7E4B5E261D02B1CC00F608C0 /* news_four.jpg */,
+				7E4B5E271D02B1CC00F608C0 /* news_three.jpg */,
+				7E4B5E221D02ACB400F608C0 /* ic_logo.PNG */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,8 +263,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E4B5E841D02D40900F608C0 /* green_logo.PNG in Resources */,
 				7E4B5DF01D02A7EB00F608C0 /* Main.storyboard in Resources */,
+				7E4B5E2B1D02B1CC00F608C0 /* news_three.jpg in Resources */,
+				7E4B5E2A1D02B1CC00F608C0 /* news_four.jpg in Resources */,
 				7E4B5DF51D02A7EB00F608C0 /* LaunchScreen.xib in Resources */,
+				7E4B5E231D02ACB400F608C0 /* ic_logo.PNG in Resources */,
+				7E4B5E281D02B1CC00F608C0 /* four_sport.jpg in Resources */,
+				7E4B5E291D02B1CC00F608C0 /* modi.jpg in Resources */,
+				7E4B5E851D02D40900F608C0 /* logo.PNG in Resources */,
 				7E4B5DF21D02A7EB00F608C0 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -219,9 +290,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7E4B5DED1D02A7EB00F608C0 /* ViewController.m in Sources */,
+				7E4B5E181D02AA1B00F608C0 /* ViewController2.m in Sources */,
+				7E4B5E111D02A8D900F608C0 /* SidebarTableViewController.m in Sources */,
+				7E4B5E2E1D02B2C300F608C0 /* NEWSTableViewCell.m in Sources */,
 				7E4B5DEA1D02A7EB00F608C0 /* AppDelegate.m in Sources */,
+				7E4B5E121D02A8D900F608C0 /* SWRevealViewController.m in Sources */,
+				7E4B5E101D02A8D900F608C0 /* MainViewController.m in Sources */,
+				7E4B5E881D02DEE200F608C0 /* IMGCollectionViewCell.m in Sources */,
+				7E4B5E1B1D02AA2800F608C0 /* ViewController3.m in Sources */,
 				7E4B5DE71D02A7EB00F608C0 /* main.m in Sources */,
+				7E4B5E1E1D02AA3200F608C0 /* ViewController4.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,6 +494,7 @@
 				7E4B5E061D02A7EB00F608C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7E4B5E071D02A7EB00F608C0 /* Build configuration list for PBXNativeTarget "NewsAPPTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +503,7 @@
 				7E4B5E091D02A7EB00F608C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

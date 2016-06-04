@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  IMGCollectionViewCell.m
 //  NewsAPP
 //
 //  Created by Mac on 6/4/16.
 //  Copyright (c) 2016 Mac. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "IMGCollectionViewCell.h"
 
-@interface ViewController : UIViewController
-
+@implementation IMGCollectionViewCell
 
 @end
-
